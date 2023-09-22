@@ -1,0 +1,53 @@
+mongo db
+
+-- Linux:
+
+how to connect to the mongo db:
+mongosh
+
+start mongodb start service:
+sudo systemctl start mongod
+
+
+install mongob:
+sudo dpkg -i mongodb-org-server_7.0.1_amd64.deb
+
+
+check mongobd status in linux:
+sudo systemctl status mongod
+
+
+install mongo shell:
+sudo dpkg -i mongodb-mongosh_1.10.6_amd64.deb
+
+install mongo compass:
+sudo dpkg -i mongodb-compass_1.39.4_amd64.deb
+
+
+
+
+-Linux mint shortcuts:
+
+show active Windows shortcut: control + Windows + arrow down
+
+mongo tutorial:
+
+MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017 SOLVED in Mongosh Mongodb:
+https://www.youtube.com/watch?v=PjCWsoe1__k
+
+
+Complete MongoDB Course from Scratch:
+https://www.youtube.com/playlist?list=PL1BztTYDF-QM6KSVfrbSyJNTU9inyBqYF
+
+next video 25:
+https://www.youtube.com/watch?v=3iiH-EGhhjI&list=PL1BztTYDF-QM6KSVfrbSyJNTU9inyBqYF&index=25
+
+time:3:14
+
+
+Complete MongoDB Tutorial #1 - What is MongoDB + Docker implementation:
+https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
+
+
+
+

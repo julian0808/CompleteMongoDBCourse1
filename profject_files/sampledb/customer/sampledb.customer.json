@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65071f83c6564f4e9844e844"
+  },
+  "name": "John",
+  "age": 28,
+  "from": [
+    "London",
+    "UK"
+  ],
+  "contac": {
+    "email": "john@abc.com",
+    "phone": {
+      "$numberLong": "9887654898"
+    }
+  },
+  "address": {
+    "street": "park avenue",
+    "houseNo": 78,
+    "PIN": 556655,
+    "city": "London",
+    "country": "UK"
+  }
+},
+{
+  "_id": {
+    "$oid": "65071f84c6564f4e9844e845"
+  },
+  "name": "Mark",
+  "age": 38,
+  "from": [
+    "Berlin",
+    "Germany"
+  ],
+  "contac": {
+    "email": "amrk@abc.com",
+    "phone": {
+      "$numberLong": "9887654898"
+    }
+  },
+  "address": {
+    "street": "salt lake",
+    "houseNo": 38,
+    "PIN": 556699,
+    "city": "Berlin",
+    "country": "Germany"
+  }
+}]
